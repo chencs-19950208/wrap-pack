@@ -1,0 +1,14 @@
+{
+  "name": "wrap-pack",
+  "version": "1.0.0",
+  "description": "这是一个模块打包器",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "wrappack"
+  ],
+  "author": "chencs",
+  "license": "ISC"
+}
